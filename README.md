@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear e organizar os hábitos.
 
-- [Visite o projeto online](WelleyIgor.github.io/habits-setup/)
+- [Visite o projeto online](https://WelleyIgor.github.io/habits-setup/)
 
 ## 🔖 Layout
 
